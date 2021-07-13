@@ -25,7 +25,7 @@ disk: 5120
 web:
     locations:
         '/':
-            # The public directory of the application relative to its root.
+            # The public directory of the application relative to its root
             root: 'public'
             index: ['index.html']
             scripts: false
